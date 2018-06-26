@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">BookShop_SA46Team04B</string>
+    <string name="item1_value">Search</string>
+    <string name="item2_value">All Books</string>
+    <string name="item3_value">View Favourites</string>
+    <string name="item4_value">UpdateBook</string>
+    <string name="item5_value">Home</string>
+    <string name="AllBooks">All Books</string>
+    <string name="BookDetails">Book Details</string>
+    <string name="Search">Search By Title</string>
+    <string name="SearchResult">Search Results</string>
+    <string name="Favourites">Saved Favourites</string>
+    <string name="Update">Update Book Details</string>
+    <string name="Team">Team Members</string>
+    <string name="NoResult">No Books Matching Search Criteria</string>
+
+    <string name="BookID"> Book ID</string>
+    <string name="Title"> Title</string>
+    <string name="CategoryID"> Category ID</string>
+    <string name="ISBN"> ISBN</string>
+    <string name="Author"> Author</string>
+    <string name="Stock"> Stock</string>
+    <string name="Price"> Price</string>
+    <string name="Synopsis"> Synopsis</string>
+    <string name="SWDiscount"> SWDiscount</string>
+    <string name="FinalPrice"> FinalPrice</string>
+
+    <string name="Tharrani"> Tharrani Udhayasekar</string>
+    <string name="Yang"> Yang Xu</string>
+    <string name="Cathy"> Zhao Yinqing</string>
+
+</resources>

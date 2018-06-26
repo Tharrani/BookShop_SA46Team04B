@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context=".Team"
+android:background="@drawable/bg3">
+
+<GridLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="50dp"
+    android:layout_marginRight="50dp"
+    android:layout_marginTop="200dp"
+    android:layout_weight="8"
+    android:alignmentMode="alignMargins"
+    android:columnCount="1"
+    android:columnOrderPreserved="false"
+    android:padding="14dp"
+    android:rowCount="3"
+    tools:layout_editor_absoluteX="0dp"
+    tools:layout_editor_absoluteY="241dp">
+
+    <TextView
+        android:id="@+id/Text1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:ems="10"
+        android:text="@string/Tharrani"
+        android:inputType="textPersonName"
+        android:textSize="24sp"
+        android:singleLine="true"
+        android:textStyle="bold"
+        android:textColor="@android:color/white"/>
+
+    <TextView
+        android:id="@+id/text2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:ems="10"
+        android:text="@string/Cathy"
+        android:inputType="textPersonName"
+        android:singleLine="true"
+        android:textStyle="bold"
+        android:textSize="24sp"
+        android:textColor="@android:color/white"
+        />
+
+    <TextView
+        android:id="@+id/Text3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:ems="10"
+        android:text="@string/Yang"
+        android:inputType="textPersonName"
+        android:textSize="24sp"
+        android:singleLine="true"
+        android:textStyle="bold"
+        android:textColor="@android:color/white"/>
+
+
+
+</GridLayout>
+</LinearLayout>
